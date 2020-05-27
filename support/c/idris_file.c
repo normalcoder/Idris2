@@ -4,7 +4,7 @@
 #include <fcntl.h>
 #include <errno.h>
 #include <sys/stat.h>
-#include <time.h>
+#include <sys/time.h>
 #include <dirent.h>
 #include <unistd.h>
 
